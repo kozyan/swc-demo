@@ -17,7 +17,9 @@
 'use strict';
 
 import { join, resolve } from 'path';
+import { createRequire } from 'module';
 
+const require = createRequire(import.meta.url);
 import CopyWebpackPlugin from 'copy-webpack-plugin';
 import MiniCssExtractPlugin from 'mini-css-extract-plugin';
 import { CleanWebpackPlugin } from 'clean-webpack-plugin';
@@ -129,7 +131,8 @@ const shared = (env) => {
                     use: {
                         loader: 'ts-loader',
                         options: {
-                            configFile: 'tsconfig.webpack.json'
+                            configFile: 'tsconfig.webpack.json',
+                            experimentalFileCaching: true
                         }
                     },
                     exclude: /node_modules/,
@@ -143,6 +146,7 @@ const shared = (env) => {
         resolve: {
             extensions: ['.tsx', '.ts', '.js', '.json'],
             alias: aliases,
+            mainFields: ['module', 'main'],
         },
         plugins,
         devServer: {
