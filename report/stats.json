@@ -1,8 +1,8 @@
 {
   "hash": "447ac8f3e5f05f1c715b",
   "version": "5.102.1",
-  "time": 2293,
-  "builtAt": 1760694769726,
+  "time": 2306,
+  "builtAt": 1760694882496,
   "publicPath": "",
   "outputPath": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\dist",
   "assetsByChunkName": {
@@ -176,14 +176,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -345,14 +345,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -600,14 +600,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -708,14 +708,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -816,14 +816,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -952,14 +952,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -1060,14 +1060,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -1196,14 +1196,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -1304,14 +1304,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -1412,14 +1412,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -1520,14 +1520,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -1628,14 +1628,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -2851,14 +2851,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -2950,14 +2950,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -3035,8 +3035,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "issuerName": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
+          "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "issuerName": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
           "issuerPath": [
             {
               "identifier": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\ts-loader\\index.js??ruleSet[1].rules[0].use!Z:\\AdobeWorkspace\\uxp7\\swc-demo\\src\\index.tsx",
@@ -3049,21 +3049,21 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/@spectrum-web-components/theme/node_modules/@spectrum-web-components/base/src/index.dev.js",
-          "issuerId": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
+          "issuerId": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
           "chunks": [
             "index"
           ],
@@ -3474,14 +3474,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -4346,8 +4346,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\scale-medium.dev.js",
-          "issuerName": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js",
+          "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+          "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
           "issuerPath": [
             {
               "identifier": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\ts-loader\\index.js??ruleSet[1].rules[0].use!Z:\\AdobeWorkspace\\uxp7\\swc-demo\\src\\index.tsx",
@@ -4360,16 +4360,16 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/express/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\scale-medium.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/@spectrum-web-components/theme/src/express/core.dev.js",
-          "issuerId": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js",
+          "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
           "chunks": [
             "index"
           ],
@@ -4664,8 +4664,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-dark.dev.js",
-          "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-dark.dev.js",
+          "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-darkest.dev.js",
+          "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-darkest.dev.js",
           "issuerPath": [
             {
               "identifier": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\ts-loader\\index.js??ruleSet[1].rules[0].use!Z:\\AdobeWorkspace\\uxp7\\swc-demo\\src\\index.tsx",
@@ -4678,16 +4678,16 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/express/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-dark.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/express/theme-dark.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/express/theme-dark.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-darkest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/express/theme-darkest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/express/theme-darkest.dev.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/@spectrum-web-components/theme/src/express/theme-dark.css.js",
-          "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-dark.dev.js",
+          "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-darkest.dev.js",
           "chunks": [
             "index"
           ],
@@ -4780,8 +4780,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-lightest.dev.js",
-          "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-lightest.dev.js",
+          "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+          "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
           "issuerPath": [
             {
               "identifier": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\ts-loader\\index.js??ruleSet[1].rules[0].use!Z:\\AdobeWorkspace\\uxp7\\swc-demo\\src\\index.tsx",
@@ -4794,16 +4794,16 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/express/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-lightest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/express/theme-lightest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/express/theme-lightest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/@spectrum-web-components/theme/src/express/theme-light.css.js",
-          "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-lightest.dev.js",
+          "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
           "chunks": [
             "index"
           ],
@@ -4910,9 +4910,9 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/express/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\scale-medium.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\express\\core.dev.js",
@@ -6548,14 +6548,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -6668,14 +6668,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -6771,14 +6771,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -6935,14 +6935,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -7102,14 +7102,14 @@
               "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-              "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-              "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+              "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+              "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
             },
             {
-              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-              "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-              "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+              "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+              "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+              "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
             },
             {
               "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -22064,8 +22064,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-lightest.dev.js",
-      "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-lightest.dev.js",
+      "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+      "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
       "issuerPath": [
         {
           "identifier": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\ts-loader\\index.js??ruleSet[1].rules[0].use!Z:\\AdobeWorkspace\\uxp7\\swc-demo\\src\\index.tsx",
@@ -22078,16 +22078,16 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/express/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-lightest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/express/theme-lightest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/express/theme-lightest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/@spectrum-web-components/theme/src/express/theme-light.css.js",
-      "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-lightest.dev.js",
+      "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
       "chunks": [
         "index"
       ],
@@ -22179,8 +22179,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\scale-medium.dev.js",
-      "issuerName": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js",
+      "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+      "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
       "issuerPath": [
         {
           "identifier": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\ts-loader\\index.js??ruleSet[1].rules[0].use!Z:\\AdobeWorkspace\\uxp7\\swc-demo\\src\\index.tsx",
@@ -22193,16 +22193,16 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/express/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\scale-medium.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/@spectrum-web-components/theme/src/express/core.dev.js",
-      "issuerId": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js",
+      "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
       "chunks": [
         "index"
       ],
@@ -22320,8 +22320,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-dark.dev.js",
-      "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-dark.dev.js",
+      "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-darkest.dev.js",
+      "issuerName": "./node_modules/@spectrum-web-components/theme/express/theme-darkest.dev.js",
       "issuerPath": [
         {
           "identifier": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\ts-loader\\index.js??ruleSet[1].rules[0].use!Z:\\AdobeWorkspace\\uxp7\\swc-demo\\src\\index.tsx",
@@ -22334,16 +22334,16 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/express/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-dark.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/express/theme-dark.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/express/theme-dark.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-darkest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/express/theme-darkest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/express/theme-darkest.dev.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/@spectrum-web-components/theme/src/express/theme-dark.css.js",
-      "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-dark.dev.js",
+      "issuerId": "./node_modules/@spectrum-web-components/theme/express/theme-darkest.dev.js",
       "chunks": [
         "index"
       ],
@@ -22997,8 +22997,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-      "issuerName": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
+      "issuer": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+      "issuerName": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
       "issuerPath": [
         {
           "identifier": "Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\ts-loader\\index.js??ruleSet[1].rules[0].use!Z:\\AdobeWorkspace\\uxp7\\swc-demo\\src\\index.tsx",
@@ -23011,21 +23011,21 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/@spectrum-web-components/theme/node_modules/@spectrum-web-components/base/src/index.dev.js",
-      "issuerId": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
+      "issuerId": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
       "chunks": [
         "index"
       ],
@@ -23527,9 +23527,9 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/express/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\scale-medium.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/express/scale-medium.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\express\\theme-light.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/express/theme-light.dev.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\express\\core.dev.js",
@@ -24201,14 +24201,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -24299,14 +24299,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -24498,14 +24498,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -24596,14 +24596,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -24762,14 +24762,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -25056,14 +25056,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -25236,14 +25236,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -25399,14 +25399,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -25518,14 +25518,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -25620,14 +25620,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -25727,14 +25727,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -25862,14 +25862,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -25969,14 +25969,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -26076,14 +26076,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -26183,14 +26183,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -26290,14 +26290,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -26397,14 +26397,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -26532,14 +26532,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -26639,14 +26639,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
@@ -26807,14 +26807,14 @@
           "id": "./node_modules/@spectrum-web-components/theme/src/themes.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-darkest.dev.js",
-          "name": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js",
-          "id": "./node_modules/@spectrum-web-components/theme/theme-darkest.dev.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\theme-lightest.dev.js",
+          "name": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js",
+          "id": "./node_modules/@spectrum-web-components/theme/theme-lightest.dev.js"
         },
         {
-          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-darkest.css.js",
-          "name": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js",
-          "id": "./node_modules/@spectrum-web-components/theme/src/theme-darkest.css.js"
+          "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\src\\theme-lightest.css.js",
+          "name": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js",
+          "id": "./node_modules/@spectrum-web-components/theme/src/theme-lightest.css.js"
         },
         {
           "identifier": "javascript/esm|Z:\\AdobeWorkspace\\uxp7\\swc-demo\\node_modules\\@spectrum-web-components\\theme\\node_modules\\@spectrum-web-components\\base\\src\\index.dev.js",
