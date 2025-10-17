@@ -21,7 +21,7 @@ const CollapsibleSection: React.FC<SectionProps> = ({ title, children, defaultOp
   const [isOpen, setIsOpen] = useState(defaultOpen);
   
   return (
-    <div style={{ border: '1px solid #ddd', borderRadius: '4px', marginBottom: '16px' }}>
+    <div style={{ border: '1px solid #ddd', borderRadius: '4px', marginBottom: '16px', overflowY: 'auto' }}>
       <div 
         style={{ 
           padding: '12px 16px', 
@@ -37,7 +37,7 @@ const CollapsibleSection: React.FC<SectionProps> = ({ title, children, defaultOp
         <span>{isOpen ? '▼' : '▶'}</span>
       </div>
       {isOpen && (
-        <div style={{ padding: '16px' }}>
+        <div style={{ padding: '16px', height: '450px', overflowY: 'auto' }}>
           {children}
         </div>
       )}
@@ -118,7 +118,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Form Controls */}
       <CollapsibleSection title="Form Controls" defaultOpen={true}>
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%', overflowY: 'auto' }}>
           
           {/* Buttons */}
           <div>
@@ -252,7 +252,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Color Controls */}
       <CollapsibleSection title="Color Controls">
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px', height: '100%', overflowY: 'auto' }}>
           <div>
             <h3>Color Components</h3>
             <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', alignItems: 'center' }}>
@@ -270,7 +270,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Display Components */}
       <CollapsibleSection title="Display & Layout">
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%', overflowY: 'auto' }}>
           
           {/* Cards */}
           <div>
@@ -360,7 +360,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Feedback & Communication */}
       <CollapsibleSection title="Feedback & Communication">
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%', overflowY: 'auto' }}>
           
           {/* Alerts & Banners */}
           <div>
@@ -400,7 +400,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Layout & Containers */}
       <CollapsibleSection title="Layout & Containers">
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%', overflowY: 'auto' }}>
           
           {/* Accordion */}
           <div>
@@ -469,7 +469,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Interactive Elements */}
       <CollapsibleSection title="Interactive Elements">
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', height: '100%', overflowY: 'auto' }}>
           
           {/* Links */}
           <div>
@@ -525,7 +525,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Overlays & Modals */}
       <CollapsibleSection title="Overlays & Modals">
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px', height: '100%', overflowY: 'auto' }}>
           
           {/* Note: These would typically be triggered by buttons */}
           <div>
@@ -552,7 +552,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Icons */}
       <CollapsibleSection title="Icons & Iconsets">
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px', height: '100%', overflowY: 'auto' }}>
           <div>
             <h3>Workflow Icons</h3>
             <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap', fontSize: '24px' }}>
@@ -587,7 +587,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
 
       {/* Usage Guidelines */}
       <CollapsibleSection title="Implementation Notes">
-        <div style={{ padding: '16px', backgroundColor: '#f9f9f9', borderRadius: '4px' }}>
+        <div style={{ padding: '16px', backgroundColor: '#f9f9f9', borderRadius: '4px', height: '100%', overflowY: 'auto' }}>
           <h3>Adding Components to Your Project</h3>
           <p>To use these components in your UXP project:</p>
           <ol>
