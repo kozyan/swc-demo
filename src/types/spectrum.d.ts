@@ -10,6 +10,14 @@ governing permissions and limitations under the License.
 */
 
 import { HTMLAttributes } from 'react';
+import { ActionMenu } from '@spectrum-web-components/action-menu';
+import {
+    Menu,
+    MenuGroup,
+    MenuItem,
+    MenuDivider,
+    MenuItemChildren
+} from '@spectrum-web-components/menu';
 
 declare global {
   namespace JSX {
@@ -64,7 +72,7 @@ declare global {
         quiet?: boolean;
       };
       'sp-action-group': HTMLAttributes<HTMLElement>;
-      'sp-action-menu': HTMLAttributes<HTMLElement>;
+      'sp-action-menu': ActionMenu;
       'sp-alert-dialog': HTMLAttributes<HTMLElement>;
       'sp-asset': HTMLAttributes<HTMLElement>;
       'sp-avatar': HTMLAttributes<HTMLElement> & {
@@ -121,12 +129,9 @@ declare global {
       'sp-icon-star': HTMLAttributes<HTMLElement>;
       'sp-illustrated-message': HTMLAttributes<HTMLElement>;
       'sp-infield-button': HTMLAttributes<HTMLElement>;
-      'sp-menu': HTMLAttributes<HTMLElement>;
-      'sp-menu-divider': HTMLAttributes<HTMLElement>;
-      'sp-menu-item': HTMLAttributes<HTMLElement> & {
-        selected?: boolean;
-        disabled?: boolean;
-      };
+      'sp-menu': Menu;
+      'sp-menu-divider': MenuDivider;
+      'sp-menu-item': MenuItem;
       'sp-meter': HTMLAttributes<HTMLElement> & {
         value?: number;
         max?: number;

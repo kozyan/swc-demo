@@ -20,6 +20,12 @@ import "@spectrum-web-components/theme/src/express/themes.js";
 
 // components
 import "@spectrum-web-components/banner/sp-banner.js";
+import "@spectrum-web-components/button/sp-button.js";
+// import "@spectrum-web-components/textfield/sp-textfield.js";
+// import "@spectrum-web-components/checkbox/sp-checkbox.js";
+// import "@spectrum-web-components/link/sp-link.js";
+// import "@spectrum-web-components/accordion/sp-accordion.js";
+// import "@spectrum-web-components/accordion/sp-accordion-item.js";
 
 const container = document.getElementById('root');
 if (!container) {

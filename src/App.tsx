@@ -12,6 +12,7 @@ governing permissions and limitations under the License.
 import React from 'react';
 import SpectrumBanner from './components/SpectrumBanner';
 import ComprehensiveSWCDemo from './components/ComprehensiveSWCDemo';
+import SWCComponentsDemo from './components/SWCComponentsDemo';
 
 const App: React.FC = () => {
   return (
@@ -21,6 +22,7 @@ const App: React.FC = () => {
         header="Hello World"
         content="Content of the banner"
       />
+      <SWCComponentsDemo />
       <ComprehensiveSWCDemo />
     </sp-theme>
   );
