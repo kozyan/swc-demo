@@ -22,7 +22,7 @@ const App: React.FC = () => {
         header="Hello World"
         content="Content of the banner"
       />
-      <SWCComponentsDemo />
+      {/* <SWCComponentsDemo /> */}
       <ComprehensiveSWCDemo />
     </sp-theme>
   );

@@ -68,12 +68,12 @@ const ComprehensiveSWCDemo: React.FC = () => {
           {/* Menu */}
           <div>
             <h3>Menu</h3>
-            <sp-menu style={{ border: '1px solid #ccc', maxWidth: '200px' }}>
-              <sp-menu-item>Menu Item 1</sp-menu-item>
-              <sp-menu-item>Menu Item 2</sp-menu-item>
-              <sp-menu-divider></sp-menu-divider>
-              <sp-menu-item disabled>Disabled Item</sp-menu-item>
-              <sp-menu-item>Menu Item 3</sp-menu-item>
+            <sp-menu>
+              <sp-menu-item key="1">Menu Item 1</sp-menu-item>
+              <sp-menu-item key="2">Menu Item 2</sp-menu-item>
+              <sp-menu-divider key="3"></sp-menu-divider>
+              <sp-menu-item key="4" disabled>Disabled Item</sp-menu-item>
+              <sp-menu-item key="5">Menu Item 3</sp-menu-item>
             </sp-menu>
           </div>
 
@@ -81,13 +81,11 @@ const ComprehensiveSWCDemo: React.FC = () => {
           <div>
             <h3>Sidenav</h3>
             <sp-sidenav style={{ height: '200px', border: '1px solid #ccc' }}>
-              <sp-sidenav-item value="section1" label="Section 1">
-                <sp-sidenav-item value="item1" label="Item 1"></sp-sidenav-item>
-                <sp-sidenav-item value="item2" label="Item 2"></sp-sidenav-item>
-              </sp-sidenav-item>
-              <sp-sidenav-item value="section2" label="Section 2">
-                <sp-sidenav-item value="item3" label="Item 3"></sp-sidenav-item>
-              </sp-sidenav-item>
+              <sp-sidenav-item value="section1" label="Section 1"></sp-sidenav-item>
+              <sp-sidenav-item value="item1" label="Item 1"></sp-sidenav-item>
+              <sp-sidenav-item value="item2" label="Item 2"></sp-sidenav-item>
+              <sp-sidenav-item value="section2" label="Section 2"></sp-sidenav-item>
+              <sp-sidenav-item value="item3" label="Item 3"></sp-sidenav-item>
             </sp-sidenav>
           </div>
 
@@ -323,8 +321,10 @@ const ComprehensiveSWCDemo: React.FC = () => {
             <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
               <sp-tag>Default Tag</sp-tag>
               <sp-tag deletable>
-                Deletable Tag
-                <sp-icon-cross slot="delete-icon"></sp-icon-cross>
+                <div>
+                  Deletable Tag
+                  <sp-icon-cross slot="delete-icon"></sp-icon-cross>
+                </div>
               </sp-tag>
               <sp-tag disabled>Disabled Tag</sp-tag>
             </div>
@@ -497,8 +497,8 @@ const ComprehensiveSWCDemo: React.FC = () => {
                 Delete
               </sp-action-button>
               <sp-action-menu>
-                <sp-menu-item>More Action 1</sp-menu-item>
-                <sp-menu-item>More Action 2</sp-menu-item>
+                <sp-menu-item key="1">More Action 1</sp-menu-item>
+                <sp-menu-item key="2">More Action 2</sp-menu-item>
               </sp-action-menu>
             </sp-action-bar>
           </div>
