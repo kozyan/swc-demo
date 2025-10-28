@@ -16,7 +16,27 @@ governing permissions and limitations under the License. -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spectrum Web Component in UXP</title>
-
+    <style>
+      html, body, #root { height: 100%; margin: 0; }
+      sp-theme#theme-block { display: block; height: 100%; }
+    </style>
+    <script>
+      // Polyfill matchMedia for UXP environment
+      if (!window.matchMedia) {
+        window.matchMedia = function(mediaQuery) {
+          return {
+            matches: false,
+            media: mediaQuery,
+            onchange: null,
+            addListener: function() {}, // deprecated but used by some libs
+            removeListener: function() {},
+            addEventListener: function() {},
+            removeEventListener: function() {},
+            dispatchEvent: function() { return false; }
+          };
+        };
+      }
+    </script>
 </head>
 
 <body>

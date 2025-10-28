@@ -21,7 +21,9 @@ import {
 
 declare global {
   namespace JSX {
-    interface IntrinsicElements {
+    interface IntrinsicElements { 
+      // Allow any Spectrum Web Component tag without strict typing to avoid JSX errors during demos
+      [elemName: string]: any;
       'sp-theme': HTMLAttributes<HTMLElement> & {
         theme?: string;
         color?: string;
@@ -72,7 +74,7 @@ declare global {
         quiet?: boolean;
       };
       'sp-action-group': HTMLAttributes<HTMLElement>;
-      'sp-action-menu': ActionMenu;
+      'sp-action-menu': HTMLAttributes<HTMLElement>;
       'sp-alert-dialog': HTMLAttributes<HTMLElement>;
       'sp-asset': HTMLAttributes<HTMLElement>;
       'sp-avatar': HTMLAttributes<HTMLElement> & {

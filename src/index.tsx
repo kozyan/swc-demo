@@ -22,8 +22,30 @@ import "@spectrum-web-components/theme/src/express/themes.js";
 import "@spectrum-web-components/banner/sp-banner.js";
 import "@spectrum-web-components/button/sp-button.js";
 // import "@spectrum-web-components/textfield/sp-textfield.js";
-// import "@spectrum-web-components/checkbox/sp-checkbox.js";
-// import "@spectrum-web-components/link/sp-link.js";
+import "@spectrum-web-components/checkbox/sp-checkbox.js";
+import "@spectrum-web-components/link/sp-link.js";
+
+// Action-related components for demos
+import "@spectrum-web-components/action-button/sp-action-button.js";
+import "@spectrum-web-components/action-group/sp-action-group.js";
+import "@spectrum-web-components/action-menu/sp-action-menu.js";
+import "@spectrum-web-components/menu/sp-menu.js";
+import "@spectrum-web-components/menu/sp-menu-item.js";
+import "@spectrum-web-components/menu/sp-menu-divider.js";
+
+// Icons used in demos (workflow set to avoid size-specific UI icons)
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-edit.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-delete.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-settings.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-star.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-copy.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-cut.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-paste.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-file.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-folder.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-search.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-alert.js";
+import "@spectrum-web-components/icons-workflow/icons/sp-icon-checkmark-circle.js";
 // import "@spectrum-web-components/accordion/sp-accordion.js";
 // import "@spectrum-web-components/accordion/sp-accordion-item.js";
 

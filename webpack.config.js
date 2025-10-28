@@ -142,7 +142,19 @@ const shared = (env) => {
         },
         resolve: {
             extensions: ['.tsx', '.ts', '.js', '.json'],
-            alias: aliases,
+            alias: {
+                ...aliases,
+                // Prefer direct Spectrum packages for components without UXP wrappers
+                '@spectrum-web-components/action-button': resolve('./node_modules/@spectrum-web-components/action-button'),
+                '@spectrum-web-components/action-group': resolve('./node_modules/@spectrum-web-components/action-group'),
+                '@spectrum-web-components/action-menu': resolve('./node_modules/@spectrum-web-components/action-menu'),
+                '@spectrum-web-components/menu': resolve('./node_modules/@spectrum-web-components/menu'),
+                '@spectrum-web-components/divider': resolve('./node_modules/@spectrum-web-components/divider'),
+                '@spectrum-web-components/icons-workflow': resolve('./node_modules/@spectrum-web-components/icons-workflow'),
+                '@spectrum-web-components/icons-ui': resolve('./node_modules/@spectrum-web-components/icons-ui'),
+                '@spectrum-web-components/picker': resolve('./node_modules/@spectrum-web-components/picker'),
+                '@spectrum-web-components/popover': resolve('./node_modules/@spectrum-web-components/popover'),
+            },
         },
         plugins,
         devServer: {

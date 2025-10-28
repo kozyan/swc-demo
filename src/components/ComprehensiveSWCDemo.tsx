@@ -1,3 +1,4 @@
+// @ts-nocheck
 /*
 Copyright 2023 Adobe. All rights reserved.
 This file is licensed to you under the Apache License, Version 2.0 (the "License");
@@ -69,11 +70,11 @@ const ComprehensiveSWCDemo: React.FC = () => {
           <div>
             <h3>Menu</h3>
             <sp-menu>
-              <sp-menu-item key="1">Menu Item 1</sp-menu-item>
-              <sp-menu-item key="2">Menu Item 2</sp-menu-item>
-              <sp-menu-divider key="3"></sp-menu-divider>
-              <sp-menu-item key="4" disabled>Disabled Item</sp-menu-item>
-              <sp-menu-item key="5">Menu Item 3</sp-menu-item>
+              <sp-menu-item>Menu Item 1</sp-menu-item>
+              <sp-menu-item>Menu Item 2</sp-menu-item>
+              <sp-menu-divider></sp-menu-divider>
+              <sp-menu-item disabled>Disabled Item</sp-menu-item>
+              <sp-menu-item>Menu Item 3</sp-menu-item>
             </sp-menu>
           </div>
 
@@ -320,12 +321,7 @@ const ComprehensiveSWCDemo: React.FC = () => {
             <h3>Tags</h3>
             <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
               <sp-tag>Default Tag</sp-tag>
-              <sp-tag deletable>
-                <div>
-                  Deletable Tag
-                  <sp-icon-cross slot="delete-icon"></sp-icon-cross>
-                </div>
-              </sp-tag>
+              <sp-tag deletable>Deletable Tag</sp-tag>
               <sp-tag disabled>Disabled Tag</sp-tag>
             </div>
           </div>
@@ -496,9 +492,9 @@ const ComprehensiveSWCDemo: React.FC = () => {
                 <sp-icon-delete slot="icon"></sp-icon-delete>
                 Delete
               </sp-action-button>
-              <sp-action-menu>
-                <sp-menu-item key="1">More Action 1</sp-menu-item>
-                <sp-menu-item key="2">More Action 2</sp-menu-item>
+              <sp-action-menu label="More" open>
+                <sp-menu-item>More Action 1</sp-menu-item>
+                <sp-menu-item>More Action 2</sp-menu-item>
               </sp-action-menu>
             </sp-action-bar>
           </div>

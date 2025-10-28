@@ -17,13 +17,18 @@ import SWCComponentsDemo from './components/SWCComponentsDemo';
 const App: React.FC = () => {
   return (
     <sp-theme id="theme-block" theme="spectrum" color="light" scale="medium" dir="ltr">
-      <h1>Welcome</h1>
-      <SpectrumBanner 
-        header="Hello World"
-        content="Content of the banner"
-      />
-      {/* <SWCComponentsDemo /> */}
-      <ComprehensiveSWCDemo />
+      <div style={{ height: '100%', boxSizing: 'border-box', overflow: 'auto' }}>
+        <div style={{ padding: '16px' }}>
+          <h1>Welcome</h1>
+          <SpectrumBanner 
+            header="Hello World"
+            content="Content of the banner"
+          />
+          <div style={{ marginTop: '16px' }}>
+            <ComprehensiveSWCDemo />
+          </div>
+        </div>
+      </div>
     </sp-theme>
   );
 };
